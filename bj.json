@@ -1,4 +1,3 @@
-
 {
   "version": 1,
   "categories": [
@@ -6,18 +5,24 @@
       "id": "coconut",
       "name": "Coconut Tree",
       "items": [
-        {"id": "c1", "thumb": "https://https://shrayesh2068.github.io/bg-remover/pic/1.jpg", "https://shrayesh2068.github.io/bg-remover/pic/2.jpg", "premium": false},
-        {"id": "c2", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/3.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/4.jpg", "premium": false},
-        {"id": "c3", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/5.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/6.jpg", "premium": true},
-        {"id": "c4", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/7.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/8.jpg", "premium": true}
+        {"id": "c1", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/1.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/1.jpg", "premium": false},
+        {"id": "c2", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/2.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/2.jpg", "premium": false},
+        {"id": "c3", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/3.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/3.jpg", "premium": false},
+        {"id": "c4", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/4.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/4.jpg", "premium": true},
+        {"id": "c5", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/5.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/5.jpg", "premium": true},
+        {"id": "c6", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/6.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/6.jpg", "premium": true}
       ]
     },
     {
       "id": "walls",
       "name": "Walls",
       "items": [
-        {"id": "w1", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/9.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/10.jpg", "premium": false},
-        {"id": "w2", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/11.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/12.jpg", "premium": false}
+        {"id": "w1", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/7.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/7.jpg", "premium": false},
+        {"id": "w2", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/8.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/8.jpg", "premium": false},
+        {"id": "w3", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/9.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/9.jpg", "premium": false},
+        {"id": "w4", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/10.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/10.jpg", "premium": true},
+        {"id": "w5", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/11.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/11.jpg", "premium": true},
+        {"id": "w6", "thumb": "https://shrayesh2068.github.io/bg-remover/pic/12.jpg", "full": "https://shrayesh2068.github.io/bg-remover/pic/12.jpg", "premium": true}
       ]
     }
   ]
