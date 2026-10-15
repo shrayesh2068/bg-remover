@@ -1,1 +1,24 @@
 
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "coconut",
+      "name": "Coconut Tree",
+      "items": [
+        {"id": "c1", "thumb": "https://yourdomain.pages.dev/bg/coconut/c1_t.jpg", "full": "https://yourdomain.pages.dev/bg/coconut/c1.jpg", "premium": false},
+        {"id": "c2", "thumb": "https://yourdomain.pages.dev/bg/coconut/c2_t.jpg", "full": "https://yourdomain.pages.dev/bg/coconut/c2.jpg", "premium": false},
+        {"id": "c3", "thumb": "https://yourdomain.pages.dev/bg/coconut/c3_t.jpg", "full": "https://yourdomain.pages.dev/bg/coconut/c3.jpg", "premium": true},
+        {"id": "c4", "thumb": "https://yourdomain.pages.dev/bg/coconut/c4_t.jpg", "full": "https://yourdomain.pages.dev/bg/coconut/c4.jpg", "premium": true}
+      ]
+    },
+    {
+      "id": "walls",
+      "name": "Walls",
+      "items": [
+        {"id": "w1", "thumb": "https://yourdomain.pages.dev/bg/walls/w1_t.jpg", "full": "https://yourdomain.pages.dev/bg/walls/w1.jpg", "premium": false},
+        {"id": "w2", "thumb": "https://yourdomain.pages.dev/bg/walls/w2_t.jpg", "full": "https://yourdomain.pages.dev/bg/walls/w2.jpg", "premium": false}
+      ]
+    }
+  ]
+}
